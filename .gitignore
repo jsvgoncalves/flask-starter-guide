@@ -1,0 +1,17 @@
+.cache/
+.coverage
+.tox/
+*.pyc
+*.egg-info
+dist/
+build/
+docs/_build/
+.eggs
+.idea
+.dockerenv
+.ropeproject/
+htmlcov/
+examples/simple/events.log
+events.log
+node_modules/
+venv/
