@@ -1,23 +1,22 @@
-flask apps quickstart
+Flask quickstarts
 ======
 
-Use this template to quickstart an Flask app with a proper dev stack.
 
 Development
 ------
 
 To setup your virtualenv:
 
-    $ mkvirtualenv myflaskapp
-    $ setvirtualenvproject myflaskapp path_to_project
+    $ mkvirtualenv sampleapp
+    $ setvirtualenvproject sampleapp path_to_project
 
     # Optionally, create a new project with
-    $ mkproject myflaskapp
-    $ git clone git@github.com:jsvgoncalves/flask-starter-guide .
+    $ mkproject sampleapp
+    $ git clone git@github.com:jsvgoncalves/flask-quickstart .
 
 Then, everytime you work on the project, run:
 
-    $ workon myflaskapp
+    $ workon sampleapp
 
 To install the dependecies run:
 
